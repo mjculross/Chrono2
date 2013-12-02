@@ -1,0 +1,39 @@
+{
+   "uuid": "1f03e3ce-468c-4f69-babd-d2ec7ab31813",
+   "shortName": "Chrono2",
+   "longName": "Chrono2",
+   "companyName": "Pebble Technology & KD5RXT",
+   "versionCode": 2,
+   "versionLabel": "2.0.0",
+
+   "watchapp":
+   {
+      "watchface": true
+   },
+
+   "appKeys":
+   {
+   },
+
+   "resources":
+   {
+      "media":
+      [
+         {
+            "menuIcon": true,
+            "type": "png",
+            "name": "IMAGE_MENU_ICON",
+            "file": "images/menu_icon_chrono.png"
+         },
+         {
+            "type": "png",
+            "name": "IMAGE_BACKGROUND",
+            "file": "images/chrono_watch_background.png"
+         }
+      ]
+   }
+}
+
+
+
+
